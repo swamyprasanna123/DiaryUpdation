@@ -1,0 +1,24 @@
+form{
+    padding: 50px;
+    
+}
+input{
+    font-size: medium;
+    width: 100px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+/* h1{
+    margin-left: -720px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+#swamy{
+    background-color: #609966;
+    color: white;
+    margin-top: 20px;
+}
+#swamy:hover{
+    background-color: #40513B;
+}
